@@ -1,0 +1,6 @@
+#ex 1
+print("Bine ai venit!")
+
+nume = input("Cum te cheamă? ")
+
+print(f"Salut, {nume}!")
