@@ -1,0 +1,10 @@
+numar = int(input("Introdu un număr: "))
+
+dublu = numar * 2
+
+print("Dublul numărului este:", dublu)
+
+if numar % 2 == 0:
+    print("Numărul este par")
+else:
+    print("Numărul este impar")
